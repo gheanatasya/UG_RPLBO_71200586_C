@@ -1,0 +1,6 @@
+com\ug10\loginregister\LoginException.class
+com\ug10\loginregister\UsernameException.class
+com\ug10\loginregister\App.class
+com\ug10\loginregister\EmailException.class
+com\ug10\loginregister\PasswordException.class
+com\ug10\loginregister\User.class
